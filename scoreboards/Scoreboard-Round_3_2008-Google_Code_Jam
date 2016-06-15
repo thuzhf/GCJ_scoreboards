@@ -1,0 +1,883 @@
+rank	nationality	contestant	score
+1	South Africa	bmerry	100
+2	China	yuhch123	100
+3	Russia	halyavin	85
+4	Japan	wata	80
+5	Japan	iwi	80
+6	China	Ahyangyi	80
+7	Belarus	tourist	80
+8	Poland	gawry	80
+9	Ukraine	vlad89	80
+10	United States	neal.wu	80
+11	Sweden	austrin	80
+12	Ukraine	Vasyl	80
+13	Ukraine	Gluk	80
+14	Belarus	mystic	75
+15	Russia	falagar	75
+16	Slovakia	misof	75
+17	Poland	jakubr	75
+18	China	Ying	75
+19	Russia	darnley	75
+20	Russia	dgozman	70
+21	Russia	ftc	65
+22	United States	Reid	65
+23	China	fuwenjie	60
+24	Japan	nya	60
+25	Russia	rem	60
+26	Russia	hmich	60
+27	Russia	jpsbur	60
+28	Russia	FedorTsarev	60
+29	Russia	Nerevar	60
+30	Indonesia	ardiankp	60
+31	South Korea	JongMan	60
+32	Romania	bogdan2412	60
+33	Russia	elizarov	60
+34	Russia	Alexus	60
+35	China	lympanda	60
+36	China	Loner	60
+37	China	try	60
+38	Ukraine	dzhulgakov	60
+39	United States	darthur	60
+40	Russia	PavelKuznetsov	60
+41	Germany	blackmath	60
+42	Poland	Psyho	60
+43	Denmark	trebe	60
+44	Indonesia	kurniady	60
+45	Poland	Jacek	60
+46	Spain	tywok	60
+47	Russia	AS1	55
+48	Poland	pmnox	55
+49	Romania	victorsb	55
+50	Sweden	Yarin	55
+51	United States	ploh	55
+52	Russia	andrewzta	55
+53	Japan	ymatsux	55
+54	India	subra	55
+55	Russia	ilyaraz	55
+56	Poland	maciejk	55
+57	China	OpenGL	55
+58	China	Innovative.Cat	55
+59	Russia	pashka	50
+60	Poland	slex	50
+61	United States	Jimb	50
+62	Lithuania	Vytis	50
+63	Italy	LucaB	50
+64	Netherlands	JanKuipers	50
+65	Canada	blueblimp	50
+66	Canada	klopyrev	50
+67	Slovakia (Slovak Republic)	kubus	50
+68	Poland	almelv	50
+69	United States	rspeer	50
+70	China	Zhuojie	50
+71	Netherlands	krijgertje	50
+72	United States	ecprice	50
+73	Poland	Eryx	50
+74	China	xreborner	45
+75	Russia	ivan.popelyshev	45
+76	Kazakhstan	arti	45
+77	South Korea	beingryu	45
+78	Russia	LinesPrower	45
+79	United States	SkidanovAlexander	45
+80	Germany	AdrianKuegel	45
+81	Poland	mirosuaf	45
+82	Indonesia	bramandia	45
+83	China	ACRush	45
+84	Israel	yariv	45
+85	Russia	Jonick	45
+86	Russia	KOTEHOK	45
+87	Vietnam	snguyen	45
+88	Japan	inazz	45
+89	Indonesia	dolphinigle	45
+90	United States	reiten	40
+91	Venezuela	jbernadas	40
+92	Russia	gevak	40
+93	Japan	LayCurse	40
+94	Netherlands	Soultaker	40
+95	Taiwan	SBRS	40
+96	Germany	hekacyr	40
+97	China	XiaoZiqian	40
+98	Argentina	pdallago	40
+99	United States	narri	40
+100	Poland	beerscout	40
+101	Japan	tos.lunar	40
+102	Canada	jmzero	40
+103	Mexico	RodrigoBurgos	40
+104	China	bloodmage	40
+105	United States	sjelkjd	40
+106	Egypt	cpphamza	40
+107	Bolivia	vexorian	40
+108	Poland	karol1	40
+109	Russia	ZloyBastard	40
+110	Japan	Hachimori	40
+111	Bulgaria	exod40	40
+112	Lithuania	Vytenis	40
+113	United Kingdom	Gigz	40
+114	Japan	Tsubosaka	40
+115	United States	CataractGoogly	40
+116	Indonesia	CrazyScratcher	40
+117	Russia	abikbaev	40
+118	Netherlands	Wolfje	40
+119	China	moonancient	40
+120	Brazil	MauricioC	40
+121	China	charliez	40
+122	China	leehark	40
+123	Georgia	nika	40
+124	South Korea	StanY	40
+125	Belarus	Smitty	40
+126	Russia	yuzmukhametov	35
+127	China	shangjingbo	35
+128	Poland	Jonasz	35
+129	Bangladesh	Jan	35
+130	Russia	Lutyj	35
+131	China	crazyb0y	35
+132	Russia	VitalyGoldstein	35
+133	China	updog	35
+134	Bangladesh	Sanny	35
+135	Bangladesh	sidky	35
+136	Slovakia	dano	35
+137	Canada	dbh	35
+138	Romania	CM87	35
+139	Japan	nodchip	35
+140	Lithuania	Xixas	35
+141	China	hhb	35
+142	United States	jdmetz	35
+143	Russia	vepifanov	35
+144	China	windy7926778	35
+145	China	Mingfei.Li	35
+146	South Korea	Astein	35
+147	Poland	wojteks	35
+148	China	moon5ckq	35
+149	Argentina	ssancho	35
+150	South Korea	altertain	35
+151	Russia	DmitryKlenov	35
+152	United States	bsonrisa	35
+153	Romania	Alexey	35
+154	Spain	elhipercubo	35
+155	Hungary	abiczo	35
+156	China	RoBa	35
+157	Poland	earl	35
+158	China	Bohua	35
+159	Bulgaria	Rostislav	35
+160	United Kingdom	linguo	35
+161	Poland	dzwiedziu	35
+162	United States	ben.hwang	35
+163	China	Lunarmony	35
+164	Russia	SergeyRogulenko	35
+165	Netherlands	jthread	35
+166	Russia	ituphanov	35
+167	China	zhengzhao	35
+168	Japan	tanakh	35
+169	United States	khanhntn	35
+170	Hungary	rlblaster	35
+171	China	henryy	35
+172	United Kingdom	PaulJefferys	35
+173	Denmark	gmark	35
+174	United States	turuthok	35
+175	Russia	scorzh	35
+176	Germany	bwps	35
+177	Brazil	rafaeldaigo	35
+178	Russia	botay	35
+179	China	mozeda	35
+180	Russia	zibada	35
+181	Russia	NeT	35
+182	United States	victorj	35
+183	Poland	eMBe	35
+184	Latvia	ulzha	35
+185	China	wywcgs	35
+186	United States	bhamrick	35
+187	Bangladesh	satej	35
+188	China	GunnERs	35
+189	Russia	deviatov	35
+190	South Korea	Yulo.K	35
+191	United States	Amber	35
+192	Russia	DStepanenko	35
+193	Kyrgyzstan	u1ik	35
+194	Germany	Klinck	35
+195	South Korea	unbing	35
+196	Poland	kp7	35
+197	China	Yao	35
+198	Ukraine	Olexiy	35
+199	Russia	ralekseenkov	35
+200	Bangladesh	Shahriar.Rouf.Nafi	35
+201	Russia	diam	35
+202	France	doudouille	35
+203	Russia	MikeMirzayanov	35
+204	Netherlands	DeCowboy	35
+205	United States	terranwy	35
+206	China	logistic	35
+207	India	hrushikesh.tilak	35
+208	Russia	ilyakor	35
+209	Hong Kong	Zakklars	35
+210	China	Qingchun	35
+211	South Korea	hsyeo	35
+212	United States	MikeSeibert	35
+213	China	ScaleRhyme	35
+214	China	g201513	35
+215	Bangladesh	Dragoon	35
+216	China	Sempr	35
+217	Greece	gepa	35
+218	Taiwan	greenoyster	35
+219	Slovakia (Slovak Republic)	Mimino	35
+220	Spain	obokaman	35
+221	Ukraine	GeKa	35
+222	Thailand	wap	35
+223	Ukraine	oberon	35
+224	Poland	kivus	35
+225	South Korea	lewha0	35
+226	United States	antimatter	30
+227	Romania	vladut89	30
+228	United States	strategist333	30
+229	United States	NefariousZhen	30
+230	New Zealand	TripleM	30
+231	Poland	Kalq	30
+232	Romania	marius.pungaru	30
+233	Hungary	Erik	30
+234	United States	talchas	30
+235	China	xiaobao	30
+236	Russia	Fly	30
+237	Russia	Wataru	30
+238	Japan	TaiTai	30
+239	Japan	xhl.kogitsune	30
+240	Russia	ulyanick	30
+241	South Africa	RalfKistner	30
+242	Brazil	carlosralv	30
+243	Sri Lanka	vpj	30
+244	Brazil	RicardoHahn	30
+245	United States	winger	30
+246	Argentina	Die	30
+247	United States	andersk	30
+248	Ukraine	AlexanderL	30
+249	Portugal	andre.sp	30
+250	China	Savior	30
+251	Russia	natalia	30
+252	Denmark	Zig	30
+253	Russia	Dlougach	30
+254	Russia	boss	25
+255	United States	jagjag	25
+256	Russia	Vitaliy	25
+257	Bangladesh	samee	25
+258	Russia	Stigius	25
+259	Ukraine	maksay	25
+260	New Zealand	TheHue	25
+261	South Korea	mysanal	25
+262	China	Aekeri	25
+263	Poland	Hetman	25
+264	Hungary	szd	25
+265	Taiwan	trchen1033	25
+266	Brazil	pedroeira	25
+267	Vietnam	khuebeo	25
+268	Japan	kinaba	25
+269	Ukraine	Ostap	25
+270	China	stone	25
+271	Ukraine	vitar	25
+272	Czech Republic	pavelz	25
+273	South Korea	Kyungryeol	25
+274	China	zwdant	25
+275	Australia	Patience	25
+276	Poland	ertesh	25
+277	Ukraine	Project	25
+278	Ukraine	Progbeat	25
+279	Poland	MB.	25
+280	Bulgaria	Borisp	25
+281	United States	LanceHalberd	25
+282	United States	dotnetcoder	25
+283	Canada	hansonw	25
+284	Belarus	frostnova	25
+285	China	Helenjyun	25
+286	South Africa	HiltonLange	25
+287	Malaysia	jonathantan86	25
+288	Russia	MRoizner	25
+289	Russia	zzzz	25
+290	Serbia and Montenegro	Relja	25
+291	Argentina	lrearte	25
+292	United States	radeye	25
+293	Poland	eXtreme	25
+294	India	humblefool	25
+295	Egypt	Patriot	25
+296	South Korea	araste	25
+297	Russia	mehas	25
+298	Japan	Kee	25
+299	China	Jby	25
+300	Belarus	vigo.ph	25
+301	South Korea	imyoyo	25
+301	United States	yisun	25
+303	Poland	kk420	25
+304	Japan	tsukuno	25
+305	Russia	Akim	25
+306	United Kingdom	StevieT	25
+307	Philippines	Marte	25
+308	China	cepheid	25
+309	Thailand	Plagapong	25
+310	Japan	irori	25
+311	Romania	diferential	25
+312	Indonesia	Cupuman	25
+313	Slovakia	WSX	25
+314	Brazil	LBFacci	25
+315	Vietnam	tienn	25
+316	France	adeymo	25
+317	China	nicholas	25
+318	Russia	nik239	25
+319	Poland	Jasko	25
+320	Poland	sapal	25
+321	Poland	Rydberg	25
+322	United States	spencer	25
+323	Russia	gusakov	25
+324	China	Huayang	25
+325	Romania	Razvi	25
+326	Russia	burunduk3	25
+327	United States	lbackstrom	25
+328	United States	jasonw	25
+329	Denmark	JesUltra	20
+330	Japan	kappahouse	20
+331	Australia	Tilps	20
+332	South Korea	ssulbbang	20
+333	United States	vsb	20
+334	Australia	EkTePik	20
+335	Poland	lordmonsoon	20
+336	United States	JRR	20
+337	China	Cheryl	20
+338	Poland	eonx	20
+339	China	kangshifu	20
+340	Peru	roypalacios	20
+341	United States	ltdtl	20
+342	Netherlands	eldering	20
+343	Japan	EmK	20
+344	Poland	AdamG	20
+345	Ukraine	Vovka	20
+346	Russia	cmd	20
+347	United Kingdom	anton.akhi	20
+348	Canada	ErickW	20
+349	China	licstar	20
+350	Mexico	macs	20
+351	China	lixs2003	20
+352	Slovakia	supo	20
+353	Russia	.Invader	20
+354	Bangladesh	sohelH	20
+355	Japan	kik	20
+355	China	skatou	20
+357	China	FAndy	20
+358	Russia	RomanLipovsky	20
+359	Romania	cvoinescu	20
+360	United States	eleusive	20
+361	South Korea	Baekjoon	20
+362	India	Saty	20
+363	China	linyufly	20
+364	Russia	agh	20
+365	Russia	IvanRomanov	20
+366	China	Fire	20
+367	Russia	mirzman	20
+368	Hong Kong	tckwok	20
+369	China	xwbsw	20
+370	India	myprasanna	20
+371	Romania	danielp	20
+372	China	jfguo	20
+373	China	watashi	20
+374	China	Doggy	20
+375	China	latsyrc	20
+376	Austria	visq	20
+377	Russia	grizzly	20
+378	South Korea	legend12	20
+379	Hong Kong	Murphy	20
+380	Bulgaria	espr1t	20
+381	Indonesia	ilham	20
+382	Russia	impetus	20
+383	Brazil	kunigami	20
+384	China	loneknight	20
+385	India	WillCodeForFood	20
+386	Brazil	felipebart	20
+387	Ukraine	Al.Cash	20
+388	Bulgaria	eagaeoppooaaa	20
+389	Poland	izulin	20
+390	China	firepot	20
+391	Japan	yuta.sawa	20
+392	Russia	kit	20
+393	China	gaosimeng	20
+394	Russia	RAD	20
+395	Belarus	Chmel.Tolstiy	20
+396	Ukraine	RAVEman	20
+397	India	foobarbaz	15
+398	Malaysia	slippy	15
+399	China	ZhouErjin	15
+400	Ukraine	Vedensky	15
+401	Vietnam	msn	15
+402	United States	wcao	15
+403	China	YangYi	15
+404	Bulgaria	momtchil	15
+405	China	Fluorine	15
+406	Vietnam	radames9htv	15
+407	United States	Tony	15
+408	Poland	Davis	15
+409	Argentina	Luciano	15
+410	China	YUMEN	15
+411	Taiwan	JosephWen	15
+412	China	javau	15
+413	Japan	yuizumi	15
+414	Estonia	otinn	15
+415	United States	abkqz	15
+416	South Korea	domeng	15
+417	Mexico	pablo.aguilar	15
+418	United States	Brian	15
+419	Canada	sclo	15
+420	United States	srik	15
+421	Hong Kong	Cho	15
+422	India	i0exception	15
+423	China	HanoiTower	15
+424	India	VinyleEm	15
+425	Bulgaria	TheLlama	15
+425	Poland	p13	15
+427	Romania	andreitheo	15
+428	Argentina	sonyckson	15
+429	Slovakia	janq	15
+430	China	Alvin	15
+431	Brazil	edauri	15
+432	China	ftfish	15
+433	Georgia	gojira	15
+434	United States	Adhit	15
+435	Mexico	wkoder	15
+436	Argentina	elsantodel90	15
+437	Taiwan	aknow	15
+438	Canada	gurug	15
+439	China	Laurance	15
+440	U.S. Virgin Islands	Minilek	15
+441	Thailand	ToN.AC119	15
+442	Egypt	naguib	15
+443	United States	Elmiguel409	15
+444	United States	TonyZ	15
+445	China	icecream	15
+446	Austria	Wernie	15
+447	India	gcdart	15
+448	Russia	griffon	15
+449	China	Stone	15
+450	China	chouxiaowen	15
+451	China	SCat.Wang	15
+452	Belarus	DAle	15
+453	China	satchipear	15
+454	Hong Kong	qinlu	15
+455	Canada	Nasa	15
+456	Romania	Prostu	15
+457	South Korea	LYW	15
+458	Canada	igoro	15
+459	Russia	Stas	15
+460	Brazil	schultz	15
+461	India	UnknownException	15
+462	Sri Lanka	tck	15
+462	Russia	vnikulin	15
+464	Bangladesh	tanaeem	15
+465	Mexico	pavel13	15
+466	Poland	kedaizd	15
+467	China	chenxiuwei	15
+468	China	carp	15
+469	China	OldDonkey	15
+469	China	rx201	15
+471	Ukraine	roma	15
+472	Japan	kitamasa	15
+473	China	pyflynn	15
+474	Greece	yannis	15
+475	China	zerg	15
+476	United States	Mg9H	15
+477	United States	Duke	15
+478	Russia	Gleb	15
+479	Bangladesh	Arif	15
+480	Bangladesh	mustafij	15
+480	China	JackieX	15
+482	Russia	gutalin	15
+483	China	Dream	15
+484	Ukraine	TAG	15
+485	India	kprateek88	15
+486	China	frankyym	15
+487	Taiwan	walchl	15
+488	Ukraine	elmariachi1414	15
+489	China	eagleonhill	15
+490	Lithuania	Leonid	15
+491	Spain	Landertxu	15
+492	China	daiwb	15
+493	France	kaasis	15
+494	Argentina	ged	15
+495	India	AnshAryan	15
+496	Serbia	rajkon	15
+497	Greenland	Kouprin	15
+498	Russia	alien.i	15
+499	Ukraine	Ragnarok	15
+500	India	shimps	15
+501	China	winsty	15
+502	Japan	nakajima	15
+503	China	cryboy	15
+504	China	insotc	15
+505	Belarus	PhilipPV	15
+506	Belarus	Ravents	15
+507	Belarus	Crush	15
+508	Slovakia	lukasP	15
+509	Ukraine	Torax	15
+509	China	bigheadghost	15
+511	Hong Kong	yiuyuho	15
+512	Hong Kong	those	15
+513	China	Terence	15
+514	Belarus	Biskup	15
+515	Brazil	Rahenri	15
+515	China	sao3	15
+517	United States	WildUtah	15
+518	United States	RichardPang	15
+519	China	Vegetable	15
+520	China	voyagerr	15
+521	China	lqs	15
+522	China	yessit	15
+523	Russia	Vintik	15
+524	Poland	hanney	15
+525	Spain	Felix	15
+525	Sweden	Slevin	15
+527	China	enjoy1009	15
+528	Japan	Rio	15
+529	China	iuaaui	15
+529	China	leeang	15
+531	United States	harpreet.singh	15
+532	India	rrpai	15
+533	Japan	kaneko	15
+534	Russia	marting	15
+535	China	Jackrabbit	15
+536	China	Fernando	15
+537	China	Foxtail	15
+538	Canada	Darko	15
+539	China	Gnefihz	15
+540	China	qwynick	15
+541	Brazil	koxvqrvtkp	15
+542	United States	cjb	15
+543	China	nebula.lam	15
+544	Poland	nutki	15
+545	Ukraine	X.Ray	15
+546	Russia	dimozzz	15
+547	India	q3dm17	15
+548	Slovakia	FerroMrkva	15
+549	China	cpcs	15
+550	Russia	argentony	15
+551	China	zmy	15
+552	China	SpaceFlyer	15
+552	Australia	squall1729	15
+554	Poland	kwiatek	15
+555	United States	Ryan	15
+556	Ukraine	IgorYevchinets	15
+556	Romania	algostorm	15
+558	Germany	HilbertRaum	15
+559	Russia	stavr	15
+560	China	zhendongjia	15
+561	Serbia	boba5555	15
+562	Vietnam	mdoan	15
+563	United States	connect4	15
+564	Russia	i.bogatyi	15
+565	Greece	SmartSchizo	15
+566	China	shell	15
+567	Russia	pperm	15
+568	Russia	Irioth	15
+569	China	StepInto	15
+570	Japan	uwi	15
+571	Russia	vyxaryx	15
+572	India	NilayVaish	15
+573	Armenia	gagik	15
+574	Ukraine	dkorduban	15
+575	Brazil	marspeople	15
+576	China	RainingStar	15
+577	China	HenryHu	15
+577	China	popo	15
+579	Russia	AlphaStream111	15
+580	United States	rwaliany	15
+581	Canada	Kdub	15
+582	Poland	tollek	15
+583	China	bug	15
+584	China	gnarlycow	15
+585	Ukraine	SharpC	15
+586	China	mdzfirst	15
+587	India	rajeshsr	15
+588	Austria	skol	15
+589	China	Lerry	15
+590	Sweden	aliquis	15
+591	Serbia	aleksandari	15
+592	Slovakia (Slovak Republic)	martin.at.ksp	15
+593	Bangladesh	Sunny	15
+594	Taiwan	Davidsu	15
+595	Belarus	gladiator	15
+596	China	groupbuilder	15
+597	Slovakia	rasto6sk	15
+598	Romania	aditsu	15
+599	United States	RalphFurmaniak	15
+600	Poland	Koper	15
+601	Russia	Hammer	15
+602	Japan	Safii	15
+603	India	abstractwhiz	15
+604	United States	ouka	15
+605	Vietnam	MinhDinh	15
+606	China	loyeer	15
+607	Canada	SourSpinach	15
+608	South Korea	ipknHama	15
+609	United States	kmod	15
+610	Poland	pzielinski	15
+611	China	moonlight	15
+612	Canada	mdruker	15
+613	South Korea	MTWTFFF	15
+614	Poland	greymoose	15
+615	Georgia	giolekva	15
+616	Poland	matkk	15
+617	China	wushuangyue	15
+618	Brazil	Demasi	15
+619	Mongolia	Chimed	15
+620	United States	t.mac	15
+621	Poland	Jakozaur	15
+622	Colombia	augustotorres	15
+623	China	zgm	15
+624	Russia	fetetriste.	10
+625	Ukraine	dima.onaboat	10
+626	China	lidaobing	10
+627	Belarus	indy256	10
+628	Russia	Spieler	10
+629	South Korea	blmarket	10
+630	Australia	aussie	10
+631	Russia	MrZZZ	10
+632	United States	stan	10
+633	China	Aesop	10
+634	South Korea	cancho	10
+635	Austria	domob	10
+636	Denmark	Faber	10
+637	China	ziliang	10
+638	Mexico	victor.j8	10
+639	China	Yiming	10
+640	China	jackfeng	10
+641	China	emnmon	10
+642	China	diaorui	10
+643	India	Carrot	10
+644	China	Alphard	10
+645	United States	Mathwhiz1286	10
+646	United States	b0b0b0b	10
+647	Ukraine	wInuX	10
+648	Netherlands	mth	10
+649	Peru	trulo17	10
+650	Poland	doriath	10
+651	China	along	10
+652	Belarus	Infinity.	10
+653	Italy	carlop	10
+654	Decline to Answer	gizzywump	10
+655	Russia	vlad	10
+656	Romania	Vman	10
+657	Russia	Sergey.Bankevich	10
+658	China	AngelClover	10
+659	Serbia	marsavic	10
+660	Moldova	Dima	10
+661	Russia	SavinovAlex	10
+662	Slovakia	goober	10
+663	Russia	aleksey	10
+664	Russia	IlyaPonamarev	10
+665	China	RenTeng	10
+666	Russia	Ripatti	10
+667	China	zxhy2	10
+668	United States	felixh	5
+669	Russia	Rasifiel	5
+670	China	Maryann	5
+671	India	vinaysingh	5
+672	Ukraine	AlMag	5
+673	India	cs10520	5
+674	China	Rick	5
+675	Brazil	tiagomt	5
+676	Indonesia	microbrain	5
+677	South Korea	HenryW	5
+677	Chile	fclaude	5
+679	Germany	mvolke	5
+680	China	wuxy	5
+681	Ukraine	Ramzes2	5
+682	India	sanky29288	5
+683	Bulgaria	Chrono	5
+684	Dominican Republic	cjoa	5
+685	Russia	MIPTAlex	5
+686	China	lh124363042	5
+687	Bulgaria	aanastasov	5
+688	Bangladesh	Abir	5
+689	Colombia	Gaizka	5
+690	India	deepakmanohar	5
+691	Spain	txandi	5
+692	Russia	DmitriyL	5
+693	Romania	VladS	5
+693	India	j.vimal	5
+695	Croatia	Ivankovic	5
+696	Brazil	ViniciusCabessa	5
+696	China	husheyn	5
+698	China	joseph	5
+699	Hong Kong	Hackson	5
+700	Romania	morbidel	5
+701	China	waterwang	5
+702	United States	windowmaker	5
+703	China	DevilMayCry	5
+704	South Korea	soul3434	5
+705	Romania	thecata	5
+706	Brazil	Serraa	5
+707	China	thunderfyc	5
+708	United States	FBWolf	5
+709	China	Baiger	5
+710	China	saltycookie	5
+711	Taiwan	it3	5
+712	China	relic	5
+713	Romania	andrei.info	5
+714	Kazakhstan	Hypuk	5
+715	South Africa	Keegan	5
+716	South Korea	ssaljalu	5
+717	Kazakhstan	Askar	5
+718	China	MoreFreeze	5
+719	Russia	Valergrad	5
+720	Slovakia	misko.sz	5
+721	Vietnam	mhung	5
+722	United States	ahh	5
+722	China	arxor	5
+724	China	oaiei	5
+725	China	lxhgww	5
+726	Ukraine	alexkas	5
+727	China	lcosvse	5
+728	Russia	TT87	5
+729	Latvia	asaveljevs	5
+730	Russia	Alligator	5
+731	Russia	vk91	5
+732	Russia	SergeyAkimov	5
+733	China	starforever	5
+734	Russia	acherepanov	5
+735	Germany	Edu	5
+735	China	lecoo	5
+737	South Korea	rubyeye	5
+738	Ukraine	DEathkNIghtS	5
+739	Croatia	ivo.sluganovic	5
+740	Colombia	itoasquall	5
+741	China	McFn	5
+742	China	the.Fm	5
+742	China	upgrade	5
+744	China	aleck	5
+745	China	ccc5	5
+746	India	imrankane2005	5
+747	Ukraine	brus07	5
+748	China	cintana	5
+749	China	Rainco	5
+750	Hungary	szsz	5
+751	China	partychen	5
+752	Romania	karalabe	5
+753	Russia	sandro	5
+754	China	lemonutzf	5
+755	France	ThomasDeniau	5
+756	Russia	stpkys	5
+757	United States	Landrew	5
+758	United States	Greggypoo	5
+759	China	fogwind	5
+760	China	star	5
+761	South Korea	MonEtoile	5
+762	Japan	kozima	5
+763	Israel	quaji	5
+764	United States	DragonRidr	5
+765	United States	Gnurdux	5
+766	China	Lvsoft	5
+767	United States	thobel	5
+768	Taiwan	kcwu	5
+769	Japan	yappy	5
+770	Russia	pqshq	5
+771	United States	wistful	5
+772	Mongolia	mergen	5
+773	Sweden	delicato	5
+774	China	kittycat	5
+775	Japan	henshiru	5
+776	Poland	SoD	5
+777	Russia	w0nder	5
+778	China	Turning	5
+779	Belarus	Nikelandjelo	5
+780	South Korea	juwon	5
+781	United States	t3hg0suazn	5
+782	China	backluck	5
+783	Argentina	zzmike	5
+784	Iran	mihar	5
+785	Bulgaria	stef.lp	5
+786	Russia	spupyrev	5
+787	Egypt	mouda	5
+788	China	kenyyy	5
+788	China	littlej	5
+790	Australia	viclei	5
+791	Belarus	levlam	5
+792	France	Wam	5
+793	Ukraine	fanKarpaty	5
+794	China	luanlai	5
+795	India	Swarun	5
+796	United States	HenryKitten	5
+797	Brazil	hiperx	5
+798	United States	igorcanadi	5
+799	India	Shadrach	5
+800	United States	ilya	5
+801	Romania	pauldb	5
+802	China	liulibo133	5
+803	Sweden	srou	5
+804	South Korea	three	5
+805	Taiwan	bee	5
+806	Slovakia (Slovak Republic)	Bus	5
+807	China	bnuer	5
+808	Russia	bl1n	5
+809	Taiwan	Robinnibor	5
+810	China	5l2	5
+811	Russia	NevoWin777	5
+812	Russia	Ignat	5
+813	China	Jyun	5
+814	United States	LeoC	5
+815	China	Younix	5
+816	Thailand	runTarm	5
+817	China	zhang	5
+818	China	Geniuswj	5
+819	India	narendhranath	5
+820	China	chenxueyu	5
+821	Australia	Muerte	5
+822	Germany	overwise	5
+823	India	Sputnik	5
+824	Poland	fredd4	5
+825	China	wuyifan	5
+826	Taiwan	C.A.	5
+827	Russia	Sorokin	5
+828	Sri Lanka	sandaru1	5
+829	Poland	marim	5
+830	China	oyy	5
+831	Slovakia	dzetkulict	5
+832	Belarus	sunnn	5
+833	Australia	arctanx	5
+834	Bulgaria	Equinox	5
+835	Indonesia	Vangoz	5
+836	Russia	AlexanderT	5
+837	United States	alangpierce	5
+838	Japan	pinpin	5
+839	China	sproblvem	5
+840	South Korea	kmh4500	5
+841	Poland	my.nickname	5
+842	India	deepblue	5
+843	Ukraine	serg	5
+844	Japan	matsuza	5
+845	China	yyt	5
+846	China	Levy	5
+847	Sweden	wisdompoet	5
+848	United States	wjsw	5
+849	Poland	Sankozi	5
+850	Russia	Lazarev	5
+851	Kazakhstan	kuat	5
+852	China	Alec	5
+853	Singapore	tangyouze	5
+854	France	genzmer	5
+855	Japan	Yak	5
+856	South Korea	Teferi	5
+857	Poland	bolek	5
+858	South Korea	Hanaban	5
+859	China	lvyun	5
+860	Poland	trecio	5
+861	China	chenhaifeng	5
+862	Slovakia (Slovak Republic)	Delsius	5
+863	Belgium	Calamitas	5
+864	Serbia	dexy	5
+865	Russia	Ferlon	5
+866	China	234226	5
+867	Czech Republic	Xofon	5
+868	China	ljwan12	5
+869	France	Esquimeau	5
+870	United States	shubham.mittal	5
+871	Netherlands	Doeke	5
+872	United States	qu1ck	5
+873	Russia	.maXim.	5
+874	Thailand	paisa	5
+875	China	LynnKaye	5
+876	Australia	Modulator	5
+877	Canada	AliJ	5
+878	China	MaiK	5
+879	United States	Boping	5
+880	China	int9	5
+881	Japan	imos	5
+882	United States	TheRaven	5
