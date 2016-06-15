@@ -66,7 +66,6 @@ def main():
             print('{}'.format(url))
             if not url.startswith('#'):
                 p = Process(target=scrape, args=(url, scoreboards_dir))
-                #scrape(c, url, scoreboards_dir)
                 p.start()
 
 if __name__ == '__main__':
