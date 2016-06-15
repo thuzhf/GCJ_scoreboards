@@ -1,0 +1,58 @@
+# Just for fun.
+# Selected from https://code.google.com/codejam/contests.html.
+# 2016 DCJ
+https://code.google.com/codejam/contest/7244486/scoreboard
+https://code.google.com/codejam/contest/11264486/scoreboard
+# 2016 GCJ
+https://code.google.com/codejam/contest/3224486/scoreboard
+https://code.google.com/codejam/contest/10224486/scoreboard
+https://code.google.com/codejam/contest/4314486/scoreboard
+# 2015 DCJ
+https://code.google.com/codejam/contest/11224486/scoreboard
+https://code.google.com/codejam/contest/11234486/scoreboard
+https://code.google.com/codejam/contest/8254486/scoreboard
+https://code.google.com/codejam/contest/4264486/scoreboard
+# 2015 GCJ
+https://code.google.com/codejam/contest/5224486/scoreboard
+https://code.google.com/codejam/contest/4254486/scoreboard
+https://code.google.com/codejam/contest/8234486/scoreboard
+https://code.google.com/codejam/contest/4244486/scoreboard
+# 2014 GCJ
+https://code.google.com/codejam/contest/7214486/scoreboard
+https://code.google.com/codejam/contest/3024486/scoreboard
+https://code.google.com/codejam/contest/3014486/scoreboard
+https://code.google.com/codejam/contest/3004486/scoreboard
+# 2013 GCJ
+https://code.google.com/codejam/contest/2437491/scoreboard
+https://code.google.com/codejam/contest/2433487/scoreboard
+https://code.google.com/codejam/contest/2442487/scoreboard
+https://code.google.com/codejam/contest/2437488/scoreboard
+# 2012 GCJ
+https://code.google.com/codejam/contest/2075486/scoreboard
+https://code.google.com/codejam/contest/1835486/scoreboard
+https://code.google.com/codejam/contest/1842485/scoreboard
+https://code.google.com/codejam/contest/1781488/scoreboard
+# 2011 GCJ
+https://code.google.com/codejam/contest/1327485/scoreboard
+https://code.google.com/codejam/contest/1158485/scoreboard
+https://code.google.com/codejam/contest/1150486/scoreboard
+https://code.google.com/codejam/contest/1128486/scoreboard
+# 2010 GCJ
+https://code.google.com/codejam/contest/801485/scoreboard
+https://code.google.com/codejam/contest/639102/scoreboard
+https://code.google.com/codejam/contest/635102/scoreboard
+https://code.google.com/codejam/contest/619102/scoreboard
+# 2009 GCJ
+https://code.google.com/codejam/contest/311101/scoreboard
+https://code.google.com/codejam/contest/243103/scoreboard
+https://code.google.com/codejam/contest/204113/scoreboard
+https://code.google.com/codejam/contest/189252/scoreboard
+# 2008 GCJ
+https://code.google.com/codejam/contest/32011/scoreboard
+https://code.google.com/codejam/contest/32010/scoreboard
+https://code.google.com/codejam/contest/32008/scoreboard
+https://code.google.com/codejam/contest/32005/scoreboard
+https://code.google.com/codejam/contest/32002/scoreboard
+https://code.google.com/codejam/contest/32001/scoreboard
+https://code.google.com/codejam/contest/32015/scoreboard
+
